@@ -7,3 +7,11 @@ def presentacion():
 
 if __name__ == "__main__":
        presentacion()
+       
+  # python
+  
+def sumar(a, b):
+    return a + b
+
+def restar(a, b):
+    return a - b
